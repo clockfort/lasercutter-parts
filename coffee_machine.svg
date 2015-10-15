@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="1200mm" height="609mm" viewBox="0 0 1200 609"
+xmlns="http://www.w3.org/2000/svg" version="1.1">
+<path d="m 20.000,608.500 175,0 0,-4 0, -30 7.75, 0 0, -40 -7.75, 0 0, -30 0, -30 7.75, 0 0, -40 -7.75, 0 0, -30 0, -30 7.75, 0 0, -40 -7.75, 0 0, -30 0, -30 7.75, 0 0, -40 -7.75, 0 0, -30 0, -30 7.75, 0 0, -40 -7.75, 0 0, -30 0, -30 7.75, 0 0, -40 -7.75, 0 0, -30 0,-4 -175,0 0,4 0, 30 -7.75, 0 0, 40 7.75, 0 0, 30 0, 30 -7.75, 0 0, 40 7.75, 0 0, 30 0, 30 -7.75, 0 0, 40 7.75, 0 0, 30 0, 30 -7.75, 0 0, 40 7.75, 0 0, 30 0, 30 -7.75, 0 0, 40 7.75, 0 0, 30 0, 30 -7.75, 0 0, 40 7.75, 0 0, 30 0,4 Z" fill="none" stroke="black" stroke-width="0.5" /><rect width="39.800" height="6.250" x="37.400" y="208.550"  fill="none" stroke="black" stroke-width="0.5"/>
+<rect width="39.800" height="6.250" x="137.400" y="208.550"  fill="none" stroke="black" stroke-width="0.5"/>
+<rect width="39.800" height="6.250" x="37.400" y="202.200"  fill="none" stroke="black" stroke-width="0.5"/>
+<rect width="39.800" height="6.250" x="137.400" y="202.200"  fill="none" stroke="black" stroke-width="0.5"/>
+<rect width="39.800" height="6.250" x="37.400" y="142.200"  fill="none" stroke="black" stroke-width="0.5"/>
+<rect width="39.800" height="6.250" x="137.400" y="142.200"  fill="none" stroke="black" stroke-width="0.5"/>
+<rect width="39.800" height="6.250" x="37.400" y="1.850"  fill="none" stroke="black" stroke-width="0.5"/>
+<rect width="39.800" height="6.250" x="137.400" y="1.850"  fill="none" stroke="black" stroke-width="0.5"/>
+<rect width="39.800" height="6.250" x="37.400" y="598.550"  fill="none" stroke="black" stroke-width="0.5"/>
+<rect width="39.800" height="6.250" x="137.400" y="598.550"  fill="none" stroke="black" stroke-width="0.5"/>
+<rect width="19.900" height="27.800" x="157.550" y="73.400" rx="3.000" ry="3.000" fill="none" stroke="black" stroke-width="0.5"/>
+<circle cx="63.500" cy="124.150" r="2.275" stroke="black" stroke-width="0.5" fill="none" /><circle cx="151.500" cy="124.150" r="2.275" stroke="black" stroke-width="0.5" fill="none" /><path d="m 220.000,185.000 175,0 0, -17.5 7.75, 0 0, -40 -7.75, 0 0, -60 7.75, 0 0, -40 -7.75, 0 0, -17.5 -17.5, 0 0, -7.75 -40, 0 0, 7.75 -60, 0 0, -7.75 -40, 0 0, 7.75 -17.5, 0 0, 17.5 -7.75, 0 0, 40 7.75, 0 0, 60 -7.75, 0 0, 40 7.75, 0 0, 17.5 Z" fill="none" stroke="black" stroke-width="0.5" /><circle cx="263.500" cy="97.500" r="2.275" stroke="black" stroke-width="0.5" fill="none" /><circle cx="351.500" cy="97.500" r="2.275" stroke="black" stroke-width="0.5" fill="none" /><path d="m 220.000,375.000 175,0 0, -17.5 7.75, 0 0, -40 -7.75, 0 0, -60 7.75, 0 0, -40 -7.75, 0 0, -17.5 -17.5, 0 0, -7.75 -40, 0 0, 7.75 -60, 0 0, -7.75 -40, 0 0, 7.75 -17.5, 0 0, 17.5 -7.75, 0 0, 40 7.75, 0 0, 60 -7.75, 0 0, 40 7.75, 0 0, 17.5 Z" fill="none" stroke="black" stroke-width="0.5" /><circle cx="263.500" cy="287.500" r="37.900" stroke="black" stroke-width="0.5" fill="none" /><path d="m 227.000,287.500 0,87.5 " fill="none" stroke="black" stroke-width="0.5" /><path d="m 300.000,287.500 0,87.5 " fill="none" stroke="black" stroke-width="0.5" /><circle cx="351.500" cy="287.500" r="37.900" stroke="black" stroke-width="0.5" fill="none" /><path d="m 315.000,287.500 0,87.5 " fill="none" stroke="black" stroke-width="0.5" /><path d="m 388.000,287.500 0,87.5 " fill="none" stroke="black" stroke-width="0.5" /><path d="m 220.000,575.000 175,0 0, -17.5 7.75, 0 0, -40 -7.75, 0 0, -60 7.75, 0 0, -40 -7.75, 0 0, -17.5 -17.5, 0 0, -7.75 -40, 0 0, 7.75 -60, 0 0, -7.75 -40, 0 0, 7.75 -17.5, 0 0, 17.5 -7.75, 0 0, 40 7.75, 0 0, 60 -7.75, 0 0, 40 7.75, 0 0, 17.5 Z" fill="none" stroke="black" stroke-width="0.5" /><circle cx="263.500" cy="487.500" r="37.900" stroke="black" stroke-width="0.5" fill="none" /><path d="m 227.000,487.500 0,87.5 " fill="none" stroke="black" stroke-width="0.5" /><path d="m 300.000,487.500 0,87.5 " fill="none" stroke="black" stroke-width="0.5" /><circle cx="351.500" cy="487.500" r="37.900" stroke="black" stroke-width="0.5" fill="none" /><path d="m 315.000,487.500 0,87.5 " fill="none" stroke="black" stroke-width="0.5" /><path d="m 388.000,487.500 0,87.5 " fill="none" stroke="black" stroke-width="0.5" /><path d="m 440.000,185.000 175,0 0, -17.5 7.75, 0 0, -40 -7.75, 0 0, -60 7.75, 0 0, -40 -7.75, 0 0, -17.5 -17.5, 0 0, -7.75 -40, 0 0, 7.75 -60, 0 0, -7.75 -40, 0 0, 7.75 -17.5, 0 0, 17.5 -7.75, 0 0, 40 7.75, 0 0, 60 -7.75, 0 0, 40 7.75, 0 0, 17.5 Z" fill="none" stroke="black" stroke-width="0.5" /><path d="m 440.000,375.000 175,0 0, -17.5 7.75, 0 0, -40 -7.75, 0 0, -60 7.75, 0 0, -40 -7.75, 0 0, -17.5 -17.5, 0 0, -7.75 -40, 0 0, 7.75 -60, 0 0, -7.75 -40, 0 0, 7.75 -17.5, 0 0, 17.5 -7.75, 0 0, 40 7.75, 0 0, 60 -7.75, 0 0, 40 7.75, 0 0, 17.5 Z" fill="none" stroke="black" stroke-width="0.5" /><path d="m 640.000,608.500 183,0 0,-608 -183, 0 0,608 " fill="none" stroke="black" stroke-width="0.5" /><rect width="6.250" height="39.800" x="808.700" y="534.600"  fill="none" stroke="black" stroke-width="0.5"/>
+<rect width="6.250" height="39.800" x="808.700" y="434.600"  fill="none" stroke="black" stroke-width="0.5"/>
+<rect width="6.250" height="39.800" x="808.700" y="334.600"  fill="none" stroke="black" stroke-width="0.5"/>
+<rect width="6.250" height="39.800" x="808.700" y="234.600"  fill="none" stroke="black" stroke-width="0.5"/>
+<rect width="6.250" height="39.800" x="808.700" y="134.600"  fill="none" stroke="black" stroke-width="0.5"/>
+<rect width="6.250" height="39.800" x="808.700" y="34.600"  fill="none" stroke="black" stroke-width="0.5"/>
+<rect width="39.800" height="6.250" x="649.400" y="208.550"  fill="none" stroke="black" stroke-width="0.5"/>
+<rect width="39.800" height="6.250" x="749.400" y="208.550"  fill="none" stroke="black" stroke-width="0.5"/>
+<rect width="39.800" height="6.250" x="649.400" y="202.200"  fill="none" stroke="black" stroke-width="0.5"/>
+<rect width="39.800" height="6.250" x="749.400" y="202.200"  fill="none" stroke="black" stroke-width="0.5"/>
+<rect width="39.800" height="6.250" x="649.400" y="142.200"  fill="none" stroke="black" stroke-width="0.5"/>
+<rect width="39.800" height="6.250" x="749.400" y="142.200"  fill="none" stroke="black" stroke-width="0.5"/>
+<rect width="39.800" height="6.250" x="649.400" y="1.850"  fill="none" stroke="black" stroke-width="0.5"/>
+<rect width="39.800" height="6.250" x="749.400" y="1.850"  fill="none" stroke="black" stroke-width="0.5"/>
+<rect width="39.800" height="6.250" x="657.400" y="598.550"  fill="none" stroke="black" stroke-width="0.5"/>
+<rect width="39.800" height="6.250" x="757.400" y="598.550"  fill="none" stroke="black" stroke-width="0.5"/>
+<path d="m 840.000,608.500 183,0 0,-608 -183, 0 0,608 " fill="none" stroke="black" stroke-width="0.5" /><rect width="6.250" height="39.800" x="1008.700" y="534.600"  fill="none" stroke="black" stroke-width="0.5"/>
+<rect width="6.250" height="39.800" x="1008.700" y="434.600"  fill="none" stroke="black" stroke-width="0.5"/>
+<rect width="6.250" height="39.800" x="1008.700" y="334.600"  fill="none" stroke="black" stroke-width="0.5"/>
+<rect width="6.250" height="39.800" x="1008.700" y="234.600"  fill="none" stroke="black" stroke-width="0.5"/>
+<rect width="6.250" height="39.800" x="1008.700" y="134.600"  fill="none" stroke="black" stroke-width="0.5"/>
+<rect width="6.250" height="39.800" x="1008.700" y="34.600"  fill="none" stroke="black" stroke-width="0.5"/>
+<rect width="39.800" height="6.250" x="849.400" y="208.550"  fill="none" stroke="black" stroke-width="0.5"/>
+<rect width="39.800" height="6.250" x="949.400" y="208.550"  fill="none" stroke="black" stroke-width="0.5"/>
+<rect width="39.800" height="6.250" x="849.400" y="202.200"  fill="none" stroke="black" stroke-width="0.5"/>
+<rect width="39.800" height="6.250" x="949.400" y="202.200"  fill="none" stroke="black" stroke-width="0.5"/>
+<rect width="39.800" height="6.250" x="849.400" y="142.200"  fill="none" stroke="black" stroke-width="0.5"/>
+<rect width="39.800" height="6.250" x="949.400" y="142.200"  fill="none" stroke="black" stroke-width="0.5"/>
+<rect width="39.800" height="6.250" x="849.400" y="1.850"  fill="none" stroke="black" stroke-width="0.5"/>
+<rect width="39.800" height="6.250" x="949.400" y="1.850"  fill="none" stroke="black" stroke-width="0.5"/>
+<rect width="39.800" height="6.250" x="857.400" y="598.550"  fill="none" stroke="black" stroke-width="0.5"/>
+<rect width="39.800" height="6.250" x="957.400" y="598.550"  fill="none" stroke="black" stroke-width="0.5"/>
+</svg>

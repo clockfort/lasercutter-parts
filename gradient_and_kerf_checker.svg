@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="24in" height="18in" viewBox="0 0 24 18"
+xmlns="http://www.w3.org/2000/svg" version="1.1">
+<rect width="0.250" height="0.500" x="0.000" y="0" fill="rgb(0,0,0)" />
+<text  font-size="0.100" x="0.063" y="0.600">0</text>
+<rect width="0.250" height="0.500" x="0.250" y="0" fill="rgb(20,20,20)" />
+<text  font-size="0.100" x="0.313" y="0.600">20</text>
+<rect width="0.250" height="0.500" x="0.500" y="0" fill="rgb(40,40,40)" />
+<text  font-size="0.100" x="0.563" y="0.600">40</text>
+<rect width="0.250" height="0.500" x="0.750" y="0" fill="rgb(60,60,60)" />
+<text  font-size="0.100" x="0.813" y="0.600">60</text>
+<rect width="0.250" height="0.500" x="1.000" y="0" fill="rgb(80,80,80)" />
+<text  font-size="0.100" x="1.063" y="0.600">80</text>
+<rect width="0.250" height="0.500" x="1.250" y="0" fill="rgb(100,100,100)" />
+<text  font-size="0.100" x="1.313" y="0.600">100</text>
+<rect width="0.250" height="0.500" x="1.500" y="0" fill="rgb(120,120,120)" />
+<text  font-size="0.100" x="1.563" y="0.600">120</text>
+<rect width="0.250" height="0.500" x="1.750" y="0" fill="rgb(140,140,140)" />
+<text  font-size="0.100" x="1.813" y="0.600">140</text>
+<rect width="0.250" height="0.500" x="2.000" y="0" fill="rgb(160,160,160)" />
+<text  font-size="0.100" x="2.063" y="0.600">160</text>
+<rect width="0.250" height="0.500" x="2.250" y="0" fill="rgb(180,180,180)" />
+<text  font-size="0.100" x="2.313" y="0.600">180</text>
+<rect width="0.250" height="0.500" x="2.500" y="0" fill="rgb(200,200,200)" />
+<text  font-size="0.100" x="2.563" y="0.600">200</text>
+<rect width="0.250" height="0.500" x="2.750" y="0" fill="rgb(220,220,220)" />
+<text  font-size="0.100" x="2.813" y="0.600">220</text>
+<rect width="0.250" height="0.500" x="3.000" y="0" fill="rgb(240,240,240)" />
+<text  font-size="0.100" x="3.063" y="0.600">240</text>
+<text  font-size="0.125" x="0.030" y="0.800">1/4" raster/vector mode kerf check template for material:</text>
+<text  font-size="0.125" x="1.250" y="0.925">__________________________</text>
+<text  font-size="0.075" x="0.030" y="0.925">Chris Lockfort (clockfort)</text>
+<path d="m 0,0 3.5,0 0,1 -0.25,0 0,-0.25 -0.25,0 0,0.25 -3,0 Z" fill="none" stroke="black" stroke-width="0.0001" /></svg>
